@@ -2240,3 +2240,15 @@ select {
 .pix-copia-cola .btn {
     width: 100%;
 }
+
+.link-admin {
+    color: inherit;
+    opacity: 0.6;
+    font-size: 12px;
+    text-decoration: none;
+}
+
+.link-admin:hover {
+    opacity: 1;
+    text-decoration: underline;
+}
